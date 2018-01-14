@@ -1,2 +1,4 @@
 # Ingredients-dialog
-An accessible dialog widget, with no dependencies 
+An accessible dialog (modal or not) widget, with no dependencies 
+
+Note : <dialog> interoperability
